@@ -73,17 +73,17 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 **Attempt 1:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+Create a movie poster in which the top half shows a beach with regular things using warm colors under the sun. There is a bottom half that shows under the see with simplistic sea life and plants with cooler colors and accents of green. There should be a clear seperation between the two halves. The focus of the poster is the navy blue silhouette of a mermaid just under the surface of the water, appearing to be looking up to above the surface. 
+- **What worked:**  There was a clear seperation between the two worlds, and I liked how they did the mermaid. 
+- **What didn't work:**   There were words on it and too much going on like people on the beach. 
+- **What I'll change for next attempt:**  I'll tell it to take away the words and the people. 
 
 **Attempt 2:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+Create a movie poster in which the top half shows a beach with regular things using warm colors under the sun. There is a bottom half that shows under the see with simplistic sea life and plants with cooler colors and accents of green. There should be a clear seperation between the two halves. The focus of the poster is the navy blue silhouette of a mermaid just under the surface of the water, appearing to be looking up to above the surface. There should be NO words or people on the beach. The whole format should be pretty simplistic. 
+- **What worked:** It was way better because there were no words or people.
+- **What didn't work:** It still wasn't simplistic enough. 
+- **What I'll change for next attempt:**  Tell it to take away even more on the beach.
 
 ---
 
