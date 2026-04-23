@@ -137,13 +137,13 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
-
+I had the same vision throughout. 
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
+I am proud that I changed the style to be more artsy.
 
 **What would you do differently next time?**  
-
+I would be more specific the first time. 
 
 ---
 
