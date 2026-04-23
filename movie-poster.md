@@ -29,27 +29,31 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
+**Your Movie Choice:** 
+The Little Mermaid 
 - **Movie Title:**  
+The Little Mermaid
 - **Why I chose this movie:**  
+It has clear themes of chasing your dreams 
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:** 
+I want the viewer to feel wonder, longing, and excitement 
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  Two distinct worlds of under the water and above it
+- **Why this element:**  It shows how Ariel feels seperated in her world. 
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  I don't want too much on the screen, just a simple format. 
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):** Blue under the water and then bright yellowish and regular colors on the top
+- **Accent color(s):** Green 
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright) A difference between warm and cool 
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
@@ -57,9 +61,9 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
-
+I want a wide shot
 - **Focal point description:**  
-
+I want the focal point to be the mermaid silhouette 
 ---
 
 ## Step 2: AI Generation – First Attempts
