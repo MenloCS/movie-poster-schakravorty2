@@ -94,19 +94,19 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+Now take away anything on the beach like the umbrellas and make it in a more artsy style. 
+- **What worked:**  I really like the composition
+- **What didn't work:** It was a weird style. 
+- **What I'll change for next attempt:**  Change the style to be more like watercolor
 
 **Attempt 4:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
+Make the style like watercolory but still defined. 
+- **What worked:**  I really like  everything about it
+- **What didn't work:**  It is exactly like I imagined. 
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+Attempt 4 because it perfectly got my vision. 
 ---
 
 ## Step 4: Photoshop Modifications
